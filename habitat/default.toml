@@ -4,7 +4,7 @@
 
 
 interval = 500
-profiles=["compliance://admin@example.com/linux-baseline", "compliance://admin@example.com/linux-patch-baseline"]
+profiles=["compliance://admin/linux-baseline"]
 
 [reporter]
 stdout = false
